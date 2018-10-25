@@ -18,7 +18,7 @@ git clone https://github.com/Cyran0/Gossip_Project
 
 pour se déplacer dans le bon dossier
 
-cd GossipProject/
+cd Gossip_Project/
 
 pour mettre à jour la liste de gems
 
@@ -34,6 +34,6 @@ rails db:seed
 
 La base de données complète se trouve (normalement) au chemin d'accès suivant :
 
-GossipProject/db/development.sqlite3
+Gossip_Project/db/development.sqlite3
 
 Ouvrez-la avec DB Browser ou SQLStudio
